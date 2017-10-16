@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(177, 179, 178);
+}
+
+.monolito {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
+.monolito1-foto{
+  margin-left: 30px;
+}
+.monolito2{
+  margin-left: 30px;
+}
+
+.luna {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
+.luna1-foto{
+  margin-left: 30px;
+}
+.luna2{
+  margin-left: 30px;
+}
+
+.discovery {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
+.discovery1-foto{
+  margin-left: 30px;
+}
+.discovery2{
+  margin-left: 30px;
+}
+
+.inicio {
+width: 60%;
+margin: auto;
+display: flex;
+
+}
+.aterrizando {
+display: flex;
+
+}
+.ash{
+margin-top: 20px;
+
+  display: flex;
+  justify-content: center;
+
+}
+.colocacion{
+  display: flex;
+
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.alien-naciendo{
+margin-top: 20px;
+mar
+  display: flex;
+  justify-content: center;
+}
+.texto01{
+margin: 10px;
+}
+
+.boton_inicio{
+display: flex;
+justify-content: center;
+margin-bottom: 100px;
+}
